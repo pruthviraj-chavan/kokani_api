@@ -1,0 +1,22 @@
+# .gitignore
+__pycache__
+*.pyc
+*.db
+*.log
+*.sqlite3
+env/
+venv/
+kokani-env/
+.ipynb_checkpoints/
+.cache/
+.gitkeep
+.DS_Store
+Thumbs.db
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.tar.gz
+*.zip
+*.rar
+*.7z
