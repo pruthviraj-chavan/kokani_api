@@ -24,6 +24,6 @@ demo = gr.Interface(
     theme="default"
 )
 
-# Launch Gradio app
+# Launch Gradio app with share link
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)
