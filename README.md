@@ -8,7 +8,7 @@ A lightweight translation API that uses a fine-tuned model trained on Kokani ↔
 - Includes:
   - Web UI (Gradio)
   - REST API (FastAPI)
-
+good
 ## 📦 Requirements
 
 ```bash
